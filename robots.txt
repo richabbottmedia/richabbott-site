@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://richabbott.com/sitemap.xml
