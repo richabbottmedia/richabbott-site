@@ -1,6 +1,7 @@
 /* The Wealth Code Magazine — issue list. Newest first.
    Add one line at the top for each new issue. Every page's menu reads this. */
 window.WCM_ISSUES = [
+  {n:"05", slug:"issue-05", title:"Women and Wealth"},
   {n:"04", slug:"issue-04", title:"The Weekend Handyman"},
   {n:"03", slug:"issue-03", title:"Things People Throw Away"},
   {n:"02", slug:"issue-02", title:"Small-Town Opportunities"},
